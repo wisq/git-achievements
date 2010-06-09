@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Adrian Irving-Beer's Git Achievements</title>
+<item><title>Apprentice Investigator (Level 2)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
 <item><title>Apprentice Investigator (Level 1)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
 <item><title>Master Carpenter (Level        1)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
 <item><title>Apprentice Chimney Sweeper (Level 3)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
