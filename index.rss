@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Adrian Irving-Beer's Git Achievements</title>
+<item><title>Apprentice Socialite (Level 1)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Apprentice Investigator (Level 2)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
 <item><title>Apprentice Investigator (Level 1)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
 <item><title>Master Carpenter (Level        1)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Apprentice Author (Level 1)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Apprentice Banker (Level 1)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Caretaker</title><description>Added a .gitignore file to a repository.</description></item>
-<item><title>Garage Inventor</title><description>Used a custom alias for a Git command</description></item>
 </channel></rss>
