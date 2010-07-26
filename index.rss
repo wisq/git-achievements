@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Adrian Irving-Beer's Git Achievements</title>
+<item><title>Apprentice Cleaning lady (Level 2)</title><description>Remove untracked files from the working tree with git clean</description></item>
 <item><title>Socialite (Level 6)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Apprentice Pilgrim (Level 3)</title><description>Performed a rebase using git rebase --onto.</description></item>
 <item><title>Apprentice Cleaning lady (Level 1)</title><description>Remove untracked files from the working tree with git clean</description></item>
@@ -19,5 +20,4 @@
 <item><title>Author (Level 4)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Collector (Level 4)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Socialite (Level 5)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Banker (Level 4)</title><description>Join two or more development histories together with git merge.</description></item>
 </channel></rss>
