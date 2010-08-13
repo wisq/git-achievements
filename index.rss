@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Adrian Irving-Beer's Git Achievements</title>
+<item><title>Thug (Level 5)</title><description>Forced pushed a branch with git push -f</description></item>
 <item><title>Apprentice Cleaning lady (Level 3)</title><description>Remove untracked files from the working tree with git clean</description></item>
 <item><title>Apprentice Merchant (Level 3)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Thug (Level 4)</title><description>Forced pushed a branch with git push -f</description></item>
@@ -19,5 +20,4 @@
 <item><title>Homeowner</title><description>Set global email address using git config.</description></item>
 <item><title>Collector (Level 5)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Apprentice Thug (Level 3)</title><description>Forced pushed a branch with git push -f</description></item>
-<item><title>Banker (Level 5)</title><description>Join two or more development histories together with git merge.</description></item>
 </channel></rss>
