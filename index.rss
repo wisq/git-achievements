@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Adrian Irving-Beer's Git Achievements</title>
+<item><title>Master Socialite (Level 7)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Apprentice Seamstress (Level 1)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Apprentice Architect (Level 3)</title><description>Created a new repository with git init.</description></item>
 <item><title>Author (Level 5)</title><description>Made 2^Level commits using git commit.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Product Manager (Level 5)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Dentist</title><description>Extracted patches using git log -p.</description></item>
 <item><title>Gipsy (Level 5)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
-<item><title>Apprentice Hunter (Level 3)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 </channel></rss>
