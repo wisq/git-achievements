@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Adrian Irving-Beer's Git Achievements</title>
+<item><title>Cleaning lady (Level 5)</title><description>Remove untracked files from the working tree with git clean</description></item>
 <item><title>Butcher (Level 6)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Investigator (Level 5)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
 <item><title>Cleaning lady (Level 4)</title><description>Remove untracked files from the working tree with git clean</description></item>
@@ -19,5 +20,4 @@
 <item><title>Apprentice Cleaning lady (Level 3)</title><description>Remove untracked files from the working tree with git clean</description></item>
 <item><title>Apprentice Merchant (Level 3)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Thug (Level 4)</title><description>Forced pushed a branch with git push -f</description></item>
-<item><title>Apprentice Cleaning lady (Level 2)</title><description>Remove untracked files from the working tree with git clean</description></item>
 </channel></rss>
