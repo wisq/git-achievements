@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Adrian Irving-Beer's Git Achievements</title>
+<item><title>Master Butcher (Level 7)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Master Collector (Level 7)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Stone Mason (Level 6)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Architect (Level 4)</title><description>Created a new repository with git init.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Investigator (Level 5)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
 <item><title>Cleaning lady (Level 4)</title><description>Remove untracked files from the working tree with git clean</description></item>
 <item><title>Collector (Level 6)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
-<item><title>Apprentice Miller (Level 1)</title><description>Add only part of a file to the stage 35 times with git add -p.</description></item>
 </channel></rss>
