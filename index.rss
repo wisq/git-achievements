@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Adrian Irving-Beer's Git Achievements</title>
+<item><title>Apprentice Goldsmith (Level 1)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
 <item><title>Master Author (Level 8)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Architect (Level 5)</title><description>Created a new repository with git init.</description></item>
 <item><title>Miller (Level 4)</title><description>Add only part of a file to the stage 185 times with git add -p.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Master Thug (Level 7)</title><description>Forced pushed a branch with git push -f</description></item>
 <item><title>Merchant (Level 5)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Chimney Sweeper (Level 4)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
-<item><title>Hunter (Level 6)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 </channel></rss>
